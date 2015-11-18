@@ -1,0 +1,19 @@
+{
+  "name": "camaron",
+  "version": "0.1.0",
+  "description": "Crabfarm node.js client",
+  "main": "./dist/camaron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crabfarm",
+    "scrapping",
+    "client"
+  ],
+  "author": "Ignacio <ignacio@platan.us>",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
